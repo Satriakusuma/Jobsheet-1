@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/121172074/209278488-fd56521a-e1fe-4978
 
 
 
-2. Lalu selanjutnya pada program GPIO yang kedua ditambahkan 1 LED dengan estimasi waktu 5 detik yang mana LED akan mati selama 5 setik dan nyala selama 5 detik, jadi apabila tetap ditekan push buttonnya namun waktu sudah habis LED akan tetap mati
+2. Lalu selanjutnya pada program GPIO yang kedua ditambahkan 1 LED dengan estimasi waktu 5 detik yang mana LED akan menyala selama 5 setik dansebaliknya yaitu lampu akan mati selama 5 detik, jadi apabila tetap ditekan push buttonnya namun waktu sudah habis LED akan tetap mati
 
 
 https://user-images.githubusercontent.com/121172074/209063304-6791ca81-854a-452d-a14d-6ad36a9a8094.mp4
