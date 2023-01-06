@@ -4,9 +4,9 @@ DASAR PEMROGRAMAN ESP32 UNTUK PEMROSESAN DATA INPUT/OUTPUT ANALOG DAN DIGITAL
 
 
 Alat dan Bahan :
-1) ESP32
+1) Kabel Jumper
 2) Breadboard
-3) Kabel jumper
+3) ESP32
 4) Potensiometer 10k Ohm (1)
 5) Sensor Capacitive Soil Moisture
 6) LED (5) dan Push Button (3)
@@ -15,7 +15,7 @@ Alat dan Bahan :
 
 
 A. GPIO
-1. Pada program ini diharapkan bisa mengendalikan sebuah LED dengan push button dengan menyalakan LED jika push button ditekan dan jika dilepaskan akan mati
+1. Pada program ini diharapkan bisa menyalakan satu LED dengan menekan push button dan jika push button dilepaskan akan mati
 
 
 
@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/121172074/209278488-fd56521a-e1fe-4978
 
 
 
-2. Selanjtunya pada program GPIO yang kedua ini menambahkan 1 LED dengan estimasi waktu 5 detik yang mana LED akan mati selama 5 setik dan nyala selama 5 detik, jadi apabila tetap ditekan push buttonnya namun waktu sudah habis LED akan tetap mati
+2. Lalu selanjutnya pada program GPIO yang kedua ditambahkan 1 LED dengan estimasi waktu 5 detik yang mana LED akan mati selama 5 setik dan nyala selama 5 detik, jadi apabila tetap ditekan push buttonnya namun waktu sudah habis LED akan tetap mati
 
 
 https://user-images.githubusercontent.com/121172074/209063304-6791ca81-854a-452d-a14d-6ad36a9a8094.mp4
