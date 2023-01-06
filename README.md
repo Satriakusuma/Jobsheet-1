@@ -3,7 +3,7 @@
 DASAR PEMROGRAMAN ESP32 UNTUK PEMROSESAN DATA INPUT/OUTPUT ANALOG DAN DIGITAL
 
 
-ALAT & BAHAN
+Alat dan Bahan :
 1) ESP32
 2) Breadboard
 3) Kabel jumper
@@ -15,7 +15,7 @@ ALAT & BAHAN
 
 
 A. GPIO
-1. Pada program ini diharapkan bisa mengndalikan satu LED dengan push button yang mana led bisa nyala apabila push button ditekan dan akan mati jika dilepaskan
+1. Pada program ini diharapkan bisa mengendalikan sebuah LED dengan push button dengan menyalakan LED jika push button ditekan dan jika dilepaskan akan mati
 
 
 
